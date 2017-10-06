@@ -70,12 +70,14 @@
 .. contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 ************************************
-My Simple Portpolio Use Framework CI
+My Simple Portfolio Use Framework CI
 ************************************
 
 My website contains :
-*My Skill
-*My Experience
-*My Serticate
-*My Organization
-*About Me
+# <ul>
+# 	<li>My Skill</li>
+# 	<li>My Serticate</li>
+# 	<li>My Serticate</li>
+# 	<li>My Organization</li>
+# 	<li>About Me</li>
+# </ul>
