@@ -74,8 +74,8 @@ My Simple Portpolio Use Framework CI
 ************************************
 
 My website contains :
-- My Skill
-- My Experience
-- My Serticate
-- My Organization
-- About Me
+*** My Skill
+*** My Experience
+*** My Serticate
+*** My Organization
+*** About Me
