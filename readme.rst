@@ -74,10 +74,10 @@ My Simple Portfolio Use Framework CI
 ************************************
 
 My website contains :
-# <ul>
-# 	<li>My Skill</li>
-# 	<li>My Serticate</li>
-# 	<li>My Serticate</li>
-# 	<li>My Organization</li>
-# 	<li>About Me</li>
-# </ul>
+<ul>
+	<li>My Skill</li>
+	<li>My Serticate</li>
+	<li>My Serticate</li>
+	<li>My Organization</li>
+	<li>About Me</li>
+</ul>
